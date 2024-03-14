@@ -11,6 +11,8 @@ The timeline of the project was challenging yet exciting. I spent weeks brainsto
 
 This project holds a special place in my heart because it allowed me to combine my passion for technology and my belief in the power of constructive feedback. It also served as a testament to my growth as a developer, as I had the opportunity to apply various skills and concepts that I acquired during my time at Holberton School.
 
-I am proud to present this app as part of my portfolio for Holberton School. It showcases my ability to conceptualize, design, and implement a real-world application. You can find more details about the project, including the code and a live demo, in my portfolio: [Portfolio Project - App Feedback and Review](example.com/portfolio-project).
+I am proud to present this app as part of my portfolio for Holberton School. It showcases my ability to conceptualize, design, and implement a real-world application. You can find more details about the project, including the code and a live demo, in my portfolio: [Portfolio Project - App Feedback and Review](https://shixyman.github.io/project_landing/).
 
 Overall, this project was not just about meeting academic requirements; it was a personal endeavor to create something meaningful and impactful. It has been an incredible learning experience, and I am excited to see how this app can positively influence feedback culture in various settings.
+####[youtube demo](https://youtu.be/XW_obpYwYvE)
+####[youtube intro](https://youtu.be/TsIBvzheCbw)
